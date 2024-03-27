@@ -1,0 +1,3 @@
+# Characters
+
+The instant the name Diablo is mentioned, most people would acknowledge the significance of the game Diablo 2. The various character classes in Diablo 2 have distinctive characteristics that set them apart from one another. Players can freely choose a character that suits their preferences and play style. From the fierce Barbarian with brute force to the cunning Assassin skilled in traps and martial arts, the game offers a variety of choices for players to explore.
