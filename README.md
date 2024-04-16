@@ -4,6 +4,7 @@
 
 🤩 **NEW FEATURES IN THE ONLINE VERSION OF DIABLO 2 VIETNAM:**
 
+
 * A new system of unique and beautiful wings and charms.
 * A new in-game currency system called soul, which has value and is used for trading with other players.
 * A new item upgrade system (using LoD items and upgrading them), and many new unique items not found in other D2VN games.
