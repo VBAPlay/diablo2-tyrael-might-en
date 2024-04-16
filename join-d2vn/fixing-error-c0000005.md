@@ -1,0 +1,17 @@
+---
+description: How to fix C0000005 error
+---
+
+# 🛠️ Fix C0000005 error
+
+Step 1: Go to search or Run and type SystemPropertiesPerformance.exe
+
+![](https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2023/09/1.png?resize=667%2C196\&ssl=1)
+
+![](https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2023/09/2.png?resize=678%2C740\&ssl=1)
+
+Step 2: After typing and selecting, a selection box will appear as shown below. Here you choose the Data Execution Prevention tab -> Check Turn on DEP for essential Windows programs and services only -> Apply -> Ok.
+
+![](https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2023/09/3-1-1.png?resize=653%2C1100\&ssl=1)
+
+After completing the steps above, please restart your computer to play normally![](https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2023/09/4.png?resize=854%2C1439\&ssl=1)
