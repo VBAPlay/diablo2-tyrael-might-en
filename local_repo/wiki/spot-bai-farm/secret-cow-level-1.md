@@ -1,6 +1,6 @@
 # Secret Cow Level 1
 
-For Mod D2VN, optimizing Secret Cow Level 1 which is already open in Town Act I can be found at the location as shown in the figure:
+For Mod D2VN, optimizing Secret Cow Level 1, which is already open in Town Act I, can be found at the location as shown in the figure:
 
 ![image](../../.gitbook/assets/image (1).png)
 

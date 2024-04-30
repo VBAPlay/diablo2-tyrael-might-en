@@ -6,7 +6,7 @@ description: FGold is currently one of the two main currencies on the D2VN serve
 
 **The role of FGold in the game:**
 
-* Purchase items in the \[FG]SHOP : ShopD2VN -> \[FG]SHOP -> Update FGold to display the amount of FGold and Souls in the account before purchasing items sold in the Shop.
+* Purchase items in the \[FG]SHOP: ShopD2VN -> \[FG]SHOP -> Update FGold to display the amount of FGold and Souls in the account before purchasing items sold in the Shop.
 
     <figure><img src="https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2024/02/soul.png?resize=482%2C310&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
 * Spend FGold to enhance the amount of Souls received at the **Exchange Event**.

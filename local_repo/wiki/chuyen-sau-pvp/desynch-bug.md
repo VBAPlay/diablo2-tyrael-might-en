@@ -1,4 +1,4 @@
-# DESYNCH BUG
+# DESYNC BUG
 
 ## Guide:
 

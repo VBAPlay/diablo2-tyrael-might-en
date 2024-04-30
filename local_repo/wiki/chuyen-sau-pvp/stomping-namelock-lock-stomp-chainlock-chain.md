@@ -2,7 +2,7 @@
 
 STOMPING [ NAMELOCK, LOCK ( STOMP ), CHAINLOCK, CHAIN ]
 
-Table of Contents
+## Table of Contents
 
 * [~Lock [Stomp]~](https://tm.diablo2-vn.com/?p=10077\&preview=true)
 * [~Chainlock~](https://tm.diablo2-vn.com/?p=10077\&preview=true)
@@ -27,31 +27,28 @@ Let's start with the basics. The issue with NameLock is to aim at the opponent's
 
 {% embed url="https://www.youtube.com/watch?v=46CZn2oAa0o" %}
 
-If you do not move the cursor to your knees or back to the center of the screen, you may shoot in a different direction other than the enemy, and your enemy will kill you immediately.{% embed url="https://www.youtube.com/watch?v=shjMoB0xOus" %}
+If you do not move the cursor to your knees or back to the center of the screen, you may shoot in a different direction other than the enemy, and your enemy will kill you immediately.{% embed url="https://www.youtube.com/watch?v=shjMoB0xOus" %}* It is worth noting that whoever initiates the Stomp first in PvP blood trading has the advantage. In many PvP matches involving dual wielders, the one who initiates the Stomp first tends to win.
+* It is also worth mentioning that Lock operates within a specific radius, and once the opponent escapes it, the Lock will be lost.
+* In the beginning, when you are trying out everything, it may seem clumsy and slow. But don't worry. Everything will improve with experience. Before long, you will train your perspective, muscles, and the initially complex Lock will become easy and simple.
 
-* It is worth noting that whoever Stomps first has the advantage in PvP blood trading. In many PvP matches with dual wielders, the one who Stomps first = wins.
-* It is also worth mentioning that Lock operates within a specific radius, and once the opponent escapes it, Lock will be lost.
-* In the beginning, when you do everything, it will look clumsy and slow. But don't worry. Everything comes with an experience. Before long, you will train your perspective, muscles, and the initially complex Lock will become easy and simple.
+## ~Chainlock~
 
-## \~Chainlock\~
-
-This is essentially the second technique upgraded by the Lock technique. Your opponent won't always stay still and as soon as they feel the Lock is coming, they will simply fly away. Nothing strange, while performing Lock, we have moved the cursor down to the knee. Now, after the opponent's name is Lock, the name of our opponent will be retained with an attack Skills (We refresh another Lock), meaning you can Lock again. In fact, Multiple Lock is a Chainlock. This technique also requires high skills and persistent practice, 1-2 days of practice can lead to Chain.
+This is essentially the second technique built upon the Lock technique. Your opponent won't always stay still, and as soon as they sense the Lock is imminent, they will attempt to evade it. Not to worry, while executing the Lock, we lower the cursor to the knee. Now, after successfully Locking the opponent, their name will be retained with an attack Skills (preparing for another Lock), allowing you to Lock again. Essentially, Multiple Locks form a Chainlock. Mastering this technique requires high skill level and persistent practice; practicing for 1-2 days can lead to executing the Chainlock.
 
 {% embed url="https://www.youtube.com/watch?v=BsxFU6i6e4E" %}
 
-## \~Chain\~
+## ~Chain~
 
-* This technique is quite simple. Immediately, your opponent who suspect you are Chainlock will immediately Blink out of your radius at a terrifying speed (Move the mouse to the corner of the screen and Teleport). You don't have enough time to perform Chainlock and the opponent will Blink away. Then we can easily chase them using Chain. To do this, after holding the attack Skills and moving the cursor to the knee, switch to Teleport and still hold RMB (Right Click) in time with the opponent's Teleport.
+* This technique is relatively straightforward. If your opponent suspects you are performing a Chainlock, they will quickly Blink out of your reach at a rapid pace (moving the mouse to a corner of the screen and using Teleport). You won't have enough time to execute Chainlock, and the opponent will Blink away. Subsequently, you can easily pursue them using Chain. To do this, after initiating the attack Skills and moving the cursor to the knee, switch to Teleport and continue holding RMB (Right Click) in synchronization with the opponent's Teleport.
 
-{% embed url="https://www.youtube.com/watch?v=Kkg2p5YBua0" %}
-
-* The important thing is to place the cursor precisely in the center or at the knee of your character. Based on personal experience, it has a longer "Buttock Cling" ability.* The key is not to jump and not attack until the opponent starts attacking, otherwise, this technique will turn you into a clown and you will just be their plaything.
+{% embed url="https://www.youtube.com/watch?v=Kkg2p5YBua0" %}* The important thing is to place the cursor precisely in the center or at the knee of your character. Based on personal experience, it has a longer "Buttock Cling" ability.
+* The key is not to jump and not attack until the opponent starts attacking, otherwise, this technique will turn you into a clown and you will just be their plaything.
 * If the opponent stops and starts attacking you, you can still maneuver around or jump to another spot.
 * Chains are often broken when the opponent performs Teleport next to holes or walls. On a clear path, it is always more effective.
 
 If your opponent uses Oak or Golem, performing Chain becomes even easier. The chance for Chain to break at a "clean" distance is close to 0.
 
-## \~Chainlock + Chain\~
+## ~Chainlock + Chain~
 
 * Simply combining these two techniques. After gaining some PvP experience with a specific Player, you will understand their habits. For example, how many Teleports they perform before striking again, or counterattacking, you'll need to guess when you need to "Stick with Chain" and when you need to perform Chainlock.
 

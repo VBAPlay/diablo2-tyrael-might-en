@@ -8,9 +8,9 @@
    * Your task now is to remove the curse and rescue Cain.
    * Next, you will run to the bottom left corner of the Mini map where a long-decayed corpse of unknown origin lies (probably Như Lai chose the wrong location to hold someone), when you click on the corpse, you will drop an item called Wirt’s Leg (random from 1 – 3 sockets anything can be inserted). Of course, this is an important ingredient you need to bring along.
 3. The second ingredient is Tome of Town Portal bought from NPC Akara – ATC 1.
-4. The third ingredient is the Horadric Cube collected when you open the Chest at Hallls of the Dead level 3 – ATC 2.
-5. Put the ingredients Wirt’s Leg and Tome of Town Portal into the Cube. Then click the Transmute button and meet the first 2 conditions, you will open a portal leading to the Cow map – the Land of Cows in mythology. This is an easy farm map for Newbies in the early stages if playing Necr Summonner.
+4. The third ingredient is the Horadric Cube collected when you open the Chest at Halls of the Dead level 3 – ATC 2.
+5. Put the ingredients Wirt’s Leg and Tome of Town Portal into the Cube. Then click the Transmute button and meet the first 2 conditions, you will open a portal leading to the Cow map – the Land of Cows in mythology. This is an easy farm map for Newbies in the early stages if playing Necr Summoner.
 
-#### REFERENCE CLIP <a href="#clip-reference" id="clip-reference"></a>
+#### REFERENCE CLIP[🔗](#content)
 
 {% embed url="https://www.youtube.com/watch?t=1s&v=lRbPX5hAdWw" %}

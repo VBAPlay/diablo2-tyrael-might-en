@@ -1,18 +1,18 @@
 # Necromancer
 
-The dominion of a Necromancer over life and death grants this dreadful potion master the ability to summon armies of skeletons and undead, while unleashing toxins, curses, and deadly bone skills upon their enemies.
+The Necromancer's control over life and death allows this fearsome potion master to raise armies of skeletons and undead beings, while also utilizing poisons, curses, and powerful bone techniques against their foes.
 
 **SKILL EXTRA**
 
-You can view the **SKILL EXTRA** information of characters in the Skill Extras table under the character's skills in the game.
+You can check the additional information on characters' **SKILL EXTRA** in the Skill Extras table within the character's skill interface in the game.
 
-To use **SKILL EXTRA**, your character must use the original LOD skill at level 20. **SKILL EXTRA** will automatically appear based on the skill level.
+In order to access **SKILL EXTRA**, your character needs to have the original LOD skill at level 20. The **SKILL EXTRA** will be automatically unlocked based on the skill level.
 
-**SKILL EXTRA** will automatically appear when you attack monsters in terms of the number of hits.
+**SKILL EXTRA** will activate automatically when attacking monsters based on the number of hits made.
 
-| UPGRADE SKILLS    | LEVEL OF SKILL TO CONJURE |
-| ----------------- | ------------------------- |
-| Skeleton (\*)     | Level 20                  |
-| Skeleton Mage (\*)| Level 20                  |
-| Bone Spirit (\*)  | Level 20                  |
-| Bone Spear (\*)   | Level 20                  |
+| UPGRADE SKILLS    | REQUIRED SKILL LEVEL |
+| ----------------- | --------------------- |
+| Skeleton (\*)     | Level 20              |
+| Skeleton Mage (\*)| Level 20              |
+| Bone Spirit (\*)  | Level 20              |
+| Bone Spear (\*)   | Level 20              |

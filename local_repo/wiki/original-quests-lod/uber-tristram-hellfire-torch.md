@@ -26,9 +26,7 @@ The first step is to collect the three necessary keys to open the first portal a
 * You should also stand in different locations to spread out the three portals, so they do not overlap and make choosing the correct one "difficult" (Many newbies do not understand this issue, and the result, well, everyone knows). 
 * You will add a fourth portal after completing these three.
 
-The Matron’s Den:
-
-* Lilith drops Diablo’s Horn, one of the three items required to open the portal to Uber Tristram.### What is Diablo 2 Game?
+The Matron’s Den:* Lilith drops Diablo’s Horn, one of the three items required to open the portal to Uber Tristram.
 
 * Uber Duriel drops Baal’s Eye, one of the three items required to open the portal to Uber Tristram.
 

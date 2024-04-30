@@ -1,1 +1,1 @@
-# 🪙 In-Game Currency
+# 💰 In-Game Currency

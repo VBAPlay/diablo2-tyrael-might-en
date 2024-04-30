@@ -2,10 +2,9 @@
 
 ## Soul Stone
 
+![](https://i0.wp.com/diablo2-en.com/tm/app/uploads/2023/12/soul.png?resize=164%2C80&ssl=1)
 
-![](https://i0.wp.com/diablo2-en.com/tm/app/uploads/2023/12/soul.png?resize=164%2C80\&ssl=1)
-
-* Used to Reroll Option Item Upgrade, can be purchased at Shop D2vn with [FGold](https://diablo2-en.com/tm/docs/wiki/tham-gia-d2vn/tien-te-trong-game/fgold/)
+* Used to Reroll Option Item Upgrade, can be purchased at Shop D2vn with [FGold](https://diablo2-en.com/tm/docs/wiki/join-d2vn/game-currency/fgold/)
 * The process is similar to Cooper Quartz.
 * Reroll formula:
 

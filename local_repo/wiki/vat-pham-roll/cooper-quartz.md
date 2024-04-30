@@ -4,7 +4,7 @@
 
 ![image](../../.gitbook/assets/image.png)
 
-* Used to Reroll Option Reward Extra Quest, can be purchased at Shop D2VN with [FGold](https://diablo2-vn.com/tm/docs/wiki/tham-gia-d2vn/tien-te-trong-game/fgold/)
+* Used to reroll option reward extra quests, can be purchased at Shop D2VN with [FGold](https://diablo2-vn.com/tm/docs/wiki/tham-gia-d2vn/tien-te-trong-game/fgold/)
 * The process is similar to Souls Stone.
 * Reroll formula:
 

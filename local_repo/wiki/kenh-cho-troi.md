@@ -24,5 +24,4 @@ Step 5: After buying the item, log in to the character to select receive item, o
 * Items purchased when received will be received one by one if you buy in bulk
 * In case you select the wrong character to receive the item, you can go to the purchased item section -> find the item you just bought and click EDIT.
 * Then you click on the character's name and select the correct character to receive, as long as you have not received the item in the inventory, you can still make changes
-* For full inventory, received items will go to the cube, a full cube will go to the stash. As for a full stash, I haven't tried yet :))
-* For special items that can only be carried one on the character like HR or anni, you have to store that item in the stash in order to receive it.
+* For full inventory, received items will go to the cube, a full cube will go to the stash. As for a full stash, I haven't tried yet :))".* For special items that can only be carried one on the character like HR or anni, you have to store that item in the stash in order to receive it.

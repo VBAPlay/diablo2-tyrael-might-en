@@ -45,7 +45,7 @@ x2 Standard Trans + x1 Standard Salvation God (Charm) + x2 Ber Rune + x2 Chaos O
 
 Standard Salvation Transcendent
 
-* 0 – 5 All Skills
-* 0 – 50% Random Element Damage (including Magic and Poison) (100 – 700 Enhanced Damage)
-* 0 – 60% Life or Mana".* 0 - 60% All Resistance
-* 1 - 50% Experience Gained
+* 0 – 5 All Skills* 0 – 50% Random Element Damage (including Magic and Poison) (100 – 700 Enhanced Damage)
+* 0 – 60% Life or Mana
+* 0 - 60% All Resistance
+* 1 - 50% Experience Gained.
